@@ -4,7 +4,7 @@ Persoonal Project - Real time chatting app
 Find people who are around you and talk to them.Uses Firebase.Ability to talk to each user that seperately. Realtime online status of users.
 
 #Usage:
-Since it uses the CoreLocation, in the simulator it bugs out. Use an actual device to to test out the app.
+Since it uses the CoreLocation, make sure to select a location in the simulator under the Debug menu. Otherwise the app will crash as it needs the GeoLocation.
 
 
 #Uses: 
